@@ -1,6 +1,6 @@
 # exposure_bias
 
-Mobility-driven estimate reveals elevated air pollution exposure and socioeconomic disparities beyond residence-based approaches in Boston. J Expo Sci Environ Epidemiol (2025). https://doi.org/10.1038/s41370-025-00820-z
+Mobility-driven estimate reveals elevated air pollution exposure and socioeconomic disparities beyond residence-based approaches in Boston. J Expo Sci Environ Epidemiol (2025).
 
 https://www.nature.com/articles/s41370-025-00820-z
 
